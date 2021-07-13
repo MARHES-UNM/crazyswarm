@@ -15,3 +15,6 @@
 [submodule "ros_ws/src/crazyflie_ros"]
 	path = ros_ws/src/crazyflie_ros
 	url = https://github.com/whoenig/crazyflie_ros.git
+[submodule "crazyflie-firmware"]
+	path = crazyflie-firmware
+	url = https://github.com/swarmslab/modquad-firmware.git
